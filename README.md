@@ -5,4 +5,11 @@ Manifold accepts a variety of file formats. This guide maps the source formattin
 ### Word documents
 Manifold recognizes the text styles built into Word, including Title, Subtitle, Headings, and certain 
 formatted fields like Author and Publication Date. Bold and italic texts will be recognized, but fonts and font styles are ignored in favor of Manifold's built-in options. Underlined text should be avoided for its visual similarity to hyperlinks.
+
 ![A side-by-side comparison of a Word file at its display in Manifold.](img/wordsidebyside.png)
+
+### HTML files
+![Side-by-side comparison of an html file and its display in Manifold.](img/htmlsidebyside.png)
+
+### Markdown files
+![Side-by-side comparison of a markdown file and its display in Manifold.](img/markdownsidebyside.png)
