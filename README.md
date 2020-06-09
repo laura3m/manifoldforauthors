@@ -51,7 +51,7 @@ Sample code:
     </html>
 
 The code above renders like this in Manifold:
-![An html file rendered in Manifold.](img/htmlrender.png)
+![An html file rendered in Manifold.](img/htmlrender.PNG)
 
 ### Markdown files
 ![Side-by-side comparison of a markdown file and its display in Manifold.](img/markdownsidebyside.png)
