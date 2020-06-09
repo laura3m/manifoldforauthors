@@ -3,8 +3,11 @@ Manifold accepts a variety of file formats. This guide maps the source formattin
 
 Jump to section:
 Basic text formatting: Word  |  HTML  |  Markdown
+
 Images: Word  |  HTML  |  Markdown
+
 Tables: Word  |  HTML  |  Markdown
+
 Advanced text formatting: Word  |  HTML  |  Markdown
 
 ## Basic text formatting
@@ -40,13 +43,15 @@ Sample code:
     An ordered list:
     <ol>
     	<li>One</li>
-	    <li>Two</li>
-	    <li>Three</li>
+	 <li>Two</li>
+	 <li>Three</li>
     </ol>
     </p>
     </body>
     </html>
-![Side-by-side comparison of an html file and its display in Manifold.](img/htmlsidebyside.png)
+
+The code above renders like this in Manifold:
+![An html file rendered in Manifold.](img/htmlrender.png)
 
 ### Markdown files
 ![Side-by-side comparison of a markdown file and its display in Manifold.](img/markdownsidebyside.png)
