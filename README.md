@@ -102,6 +102,7 @@ Images uploaded as Resources can be linked in the Manifold text by entering the 
 Manifold ignores most image styling in Word documents. Images aligned to the center of the page will be automatically displayed left-aligned, and auto-generate Image Captions will not retain their number or caption styling. Image size is ralative to the image size in the Word document.
 img
 
+
 ### HTML
 Manifold handles HTML images similar to most web pages. Images can be linked from a web location or sourced from a file uploaded in the Manifest. Manifold ignores inline styling, so image sizing must designated in a separate CSS file and assigned a class in the HTML.
 
@@ -132,7 +133,9 @@ CSS to reduce image size:
 	width: auto
 	}
 ```
-img 
+
+<img src="img/htmlimgrender.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
+
 
 ### Markdown
 Markdown images can be embedded from the web or included in the Manifest upload. If additional image styling/sizing is needed, you can include HTML syntax withing your Markdown and include a CSS file to specify image classes (see HTML section above).
@@ -146,4 +149,6 @@ A local image uploaded with the Manifest zip folder:
 A web image with URL:
 ![A golden retriever laying in the grass](https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg)
 ```
-img
+
+<img src="img/mdimgsidebyside.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
+
