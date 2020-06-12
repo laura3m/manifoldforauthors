@@ -125,7 +125,13 @@ Code sample:
 </body>
 </html>
 ```
-
+CSS to reduce image size:
+```
+.dog {
+	height: 150px; 
+	width: auto
+	}
+```
 img 
 
 ### Markdown
