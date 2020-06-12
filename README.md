@@ -54,4 +54,36 @@ The code above renders like this in Manifold:
 ![An html file rendered in Manifold.](img/htmlrender.PNG)
 
 ### Markdown files
-![Side-by-side comparison of a markdown file and its display in Manifold.](img/markdownsidebyside.png)
+Sample code:
+```
+---
+title: A Markdown Sample Chapter
+---
+# Sample markdown text
+## Introduction
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+
+Pellentesque habitant _morbi tristique_ senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. *Aenean nec lorem*. In porttitor. Donec laoreet nonummy augue.
+
+Suspendisse dui purus, __scelerisque at__, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque **magna**. Integer nulla.
+
+A list (dashed):
+
+-	Apple
+-	Orange
+-	Banana
+
+Another unordered list:
+
+* A
+* Bee
+* Sea
+
+An ordered list:
+
+1.	One
+2.	Two
+3.	Three
+```
+![A markdown file display in Manifold.](img/markdownsidebyside.png)
