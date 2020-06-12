@@ -86,4 +86,4 @@ An ordered list:
 2.	Two
 3.	Three
 ```
-![A markdown file display in Manifold.](img/markdownsidebyside.png)
+![A markdown file display in Manifold.](img/mdrender.PNG)
