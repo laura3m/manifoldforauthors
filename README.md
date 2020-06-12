@@ -51,6 +51,7 @@ Sample code:
     </html>
 
 The code above renders like this in Manifold:
+
 <img src="img/htmlrender.PNG" alt="An html file rendered in Manifold" width="450px" height="auto">
 
 ### Markdown files
@@ -86,4 +87,6 @@ An ordered list:
 2.	Two
 3.	Three
 ```
+The markdown code is rendered like this in Manifold:
+
 <img src="img/mdrender.PNG" alt="A markdown file display in Manifold." width="450px" height="auto">
