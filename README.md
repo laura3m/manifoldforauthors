@@ -90,3 +90,54 @@ An ordered list:
 The markdown code is rendered like this in Manifold:
 
 <img src="img/mdrender.PNG" alt="A markdown file display in Manifold." width="450px" height="auto">
+
+## Embedded Images
+Images can be added to Manifold as Resources or embedded directly in the text document. For documents with few or only decorative images, embedding images is fine. For projects with an emphasis on image resources, uploading these files in the Resource section is more appropriate so detailed metadata and permissions can be included. Always include alt-text in your image embeds to ensure the image information is conveyed to screen-readers.
+
+Images uploaded as Resources can be linked in the Manifold text by entering the admin preview, highlighting the location where you would like to link an image, and selecting a resource from the pop-up panel.
+
+!(Placing Image resource in Text)[img/imgResource.PNG]
+
+### Word
+Manifold ignores most image styling in Word documents. Images aligned to the center of the page will be automatically displayed left-aligned, and auto-generate Image Captions will not retain their number or caption styling. Image size is ralative to the image size in the Word document.
+img
+
+### HTML
+Manifold handles HTML images similar to most web pages. Images can be linked from a web location or sourced from a file uploaded in the Manifest. Manifold ignores inline styling, so image sizing must designated in a separate CSS file and assigned a class in the HTML.
+
+Code sample:
+```
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>A Sample html image</title>
+	<link rel="stylesheet" href="imgstyling.css">
+</head>
+<body>
+<h1>Sample html Image</h1>
+<p>An image linked from a web source:</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg" alt="A golden retriever laying in the grass">
+<p>Image styled with external CSS sheet (included in Manifest):</p>
+<img class="dog" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg" alt="A golden retriever laying in the grass">
+<p>A local image uploaded in a Manifest zip folder:</p>
+<img src="catimg.png" alt="A white cat with heterochromia">
+</body>
+</html>
+```
+
+img 
+
+### Markdown
+Markdown images can be embedded from the web or included in the Manifest upload. If additional image styling/sizing is needed, you can include HTML syntax withing your Markdown and include a CSS file to specify image classes (see HTML section above).
+
+Code sample:
+```
+# Sample markdown image
+A local image uploaded with the Manifest zip folder:
+![A white cat with heterochromia](catimg.png)
+
+A web image with URL:
+![A golden retriever laying in the grass](https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg)
+```
+img
