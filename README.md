@@ -51,7 +51,7 @@ Sample code:
     </html>
 
 The code above renders like this in Manifold:
-![An html file rendered in Manifold.](img/htmlrender.PNG)
+<img src="img/htmlrender.PNG" alt="An html file rendered in Manifold" width="450px" height="auto">
 
 ### Markdown files
 Sample code:
@@ -86,4 +86,4 @@ An ordered list:
 2.	Two
 3.	Three
 ```
-![A markdown file display in Manifold.](img/mdrender.PNG)
+<img src="img/mdrender.PNG" alt="A markdown file display in Manifold." width="450px" height="auto">
