@@ -96,7 +96,7 @@ Images can be added to Manifold as Resources or embedded directly in the text do
 
 Images uploaded as Resources can be linked in the Manifold text by entering the admin preview, highlighting the location where you would like to link an image, and selecting a resource from the pop-up panel.
 
-!(Placing Image resource in Text)[img/imgResource.PNG]
+![Placing Image resource in Text](img/imgResource.png)
 
 ### Word
 Manifold ignores most image styling in Word documents. Images aligned to the center of the page will be automatically displayed left-aligned, and auto-generate Image Captions will not retain their number or caption styling. Image size is ralative to the image size in the Word document.
