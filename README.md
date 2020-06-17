@@ -159,9 +159,9 @@ Before embedding a table in your Manifold text, consider the necesstity of the t
 ### Word
 Tables embedded in Word files lose much of their formatting in Manifold. In the example below, note how Manifold auto-aligns all text to the left and condenses column widths. To add padding between columns, you can add an empty column of any width. Manifold automatically bolds column headers and applies alternating grey shading to rows. To preserve Word Table Styling, insert of screenshot of the table into your Word document instead of the formatted table (second example below).
 
-<img src="img/wordtablesidebyside.PNG" alt="A sample 4 column table in Manifold created from a Word document" width="600px" height="auto">
+<img src="img/wordtablesidebyside.png" alt="A sample 4 column table in Manifold created from a Word document" width="600px" height="auto">
 
-<img src="img/formattedtablesidebyside.PNG" alt="A sample 4 column table in Manifold created from a Word document" width="600px" height="auto">
+<img src="img/formattedtablesidebyside.png" alt="A sample screenshot of a table to preserve formatting in Manifold" width="600px" height="auto">
 ### HTML
 
 ### Markdown
