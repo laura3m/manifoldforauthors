@@ -165,4 +165,4 @@ Tables embedded in Word files lose much of their formatting in Manifold. In the 
 ### HTML
 
 ### Markdown
-The ![Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) can help you easily format tables in Markdown.
+The [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) can help you easily format tables in Markdown.
