@@ -154,8 +154,14 @@ A web image with URL:
 <img src="img/mdimgsidebyside.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
 
 ## Tables
-### Word
+Before embedding a table in your Manifold text, consider the necesstity of the table format to convey the information. Tables are hard for screen readers to parse and large tables can sometimes be summarized in paragraph form. Simple tables like terms and definitions can written out in single, consecutive lines, and data visualizations with alternative text may be better suited to conveying table information. Due to limitations in Manifold, screenshots with alt text describing the data are a better option for larger tables.
 
+### Word
+Tables embedded in Word files lose much of their formatting in Manifold. In the example below, note how Manifold auto-aligns all text to the left and condenses column widths. To add padding between columns, you can add an empty column of any width. Manifold automatically bolds column headers and applies alternating grey shading to rows. To preserve Word Table Styling, insert of screenshot of the table into your Word document instead of the formatted table (second example below).
+
+<img src="img/wordtablesidebyside.PNG" alt="A sample 4 column table in Manifold created from a Word document" width="600px" height="auto">
+
+<img src="img/formattedtablesidebyside.PNG" alt="A sample 4 column table in Manifold created from a Word document" width="600px" height="auto">
 ### HTML
 
 ### Markdown
