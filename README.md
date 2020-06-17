@@ -92,7 +92,7 @@ The markdown code is rendered like this in Manifold:
 <img src="img/mdrender.PNG" alt="A markdown file display in Manifold." width="450px" height="auto">
 
 ## Embedded Images
-Images can be added to Manifold as Resources or embedded directly in the text document. For documents with few or only decorative images, embedding images is fine. For projects with an emphasis on image resources, uploading these files in the Resource section is more appropriate so detailed metadata and permissions can be included. Always include alt-text in your image embeds to ensure the image information is conveyed to screen-readers.
+Images can be added to Manifold as Resources or embedded directly in the text document. For documents with few or only decorative images, embedding images is fine. For projects with an emphasis on image resources, uploading these files in the Resource section is more appropriate so detailed metadata and permissions can be included. Always include alt-text in your image embeds to ensure the image information is conveyed to screen readers.
 
 Images uploaded as Resources can be linked in the Manifold text by entering the admin preview, highlighting the location where you would like to link an image, and selecting a resource from the pop-up panel.
 
@@ -104,7 +104,7 @@ img
 
 
 ### HTML
-Manifold handles HTML images similar to most web pages. Images can be linked from a web location or sourced from a file uploaded in the Manifest. Manifold ignores inline styling, so image sizing must designated in a separate CSS file and assigned a class in the HTML.
+Manifold handles HTML images similar to most web pages. Images can be linked from a web location or sourced from a file uploaded in the Manifest. Manifold ignores inline styling, so image sizing must designated in a separate CSS file and assigned a class in the HTML. Resizing images with percentages rather than pixel values may scale better on mobile device screens.
 
 Code sample:
 ```
@@ -133,6 +133,7 @@ CSS to reduce image size:
 	width: auto
 	}
 ```
+If you need to edit the CSS file after upload, go to the Text page, select Styles from the left-hand menu, and click the pencil icon next to your CSS to edit.
 
 <img src="img/htmlimgrender.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
 
@@ -152,3 +153,9 @@ A web image with URL:
 
 <img src="img/mdimgsidebyside.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
 
+## Tables
+### Word
+
+### HTML
+
+### Markdown
