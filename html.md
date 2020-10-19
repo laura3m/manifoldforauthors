@@ -75,3 +75,8 @@ CSS to reduce image size:
 If you need to edit the CSS file after upload, go to the Text page, select Styles from the left-hand menu, and click the pencil icon next to your CSS to edit.
 
 <img src="img/htmlimgrender.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
+
+## Tables
+For help with table formatting, visit the W3School's guide: [http://www.wiris.com/editor/demo/en/developers#output-formats](http://www.wiris.com/editor/demo/en/developers#output-formats)
+
+## Iframes
