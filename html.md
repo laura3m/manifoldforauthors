@@ -86,3 +86,13 @@ Iframes can used in your HTML file to embed multimedia in your text, including v
 
 ## Code 
 
+Use `<code>` and `<kbd>` to display code blocks and keyboard commands
+
+```
+<code>
+	import heapq<br/>
+	nums = [1, 8, 2, 23, 7, -4, 18, 23, 42, 37, 2]<br/>
+	print(heapq.nlargest(3, nums))<br/>
+	print(heapq.nsmallest(3, nums))
+</code>	
+```
