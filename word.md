@@ -9,7 +9,7 @@ Manifold recognizes the text styles built into Word, including Title, Subtitle, 
 
 Manifold will upload images placed in Word files, but it ignores some image styling options. Images aligned to the center of the page in Word will be automatically displayed left-aligned after ingest, and auto-generated Image Captions will not retain their number or caption styling. Image size is ralative to the image size in the Word document.
 
-img
+![A side-by-side comparison of image formatting in Word versus Manifold.](img/wordimgsidebyside.png)
 
 ## Tables
 
