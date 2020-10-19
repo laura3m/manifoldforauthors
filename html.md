@@ -77,6 +77,6 @@ If you need to edit the CSS file after upload, go to the Text page, select Style
 <img src="img/htmlimgrender.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
 
 ## Tables
-For help with table formatting, visit the W3School's guide: [http://www.wiris.com/editor/demo/en/developers#output-formats](http://www.wiris.com/editor/demo/en/developers#output-formats)
+For help with table formatting, visit the W3School's guide: [https://www.w3schools.com/tags/tag_table.asp#:~:text=An%20HTML%20table%20consists%20of,%2C%20and%20elements.](https://www.w3schools.com/tags/tag_table.asp#:~:text=An%20HTML%20table%20consists%20of,%2C%20and%20elements)
 
 ## Iframes
