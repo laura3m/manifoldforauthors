@@ -77,6 +77,12 @@ If you need to edit the CSS file after upload, go to the Text page, select Style
 <img src="img/htmlimgrender.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
 
 ## Tables
+
 For help with table formatting, visit the W3School's guide: [https://www.w3schools.com/tags/tag_table.asp#:~:text=An%20HTML%20table%20consists%20of,%2C%20and%20elements.](https://www.w3schools.com/tags/tag_table.asp#:~:text=An%20HTML%20table%20consists%20of,%2C%20and%20elements)
 
 ## Iframes
+
+Iframes can used in your HTML file to embed multimedia in your text, including videos from Youtube or Vimeo, datasets and visualizations from Tableau, and 3D models from Sketchfab, among others. For help with iframes, visit https://www.w3schools.com/tags/tag_iframe.asp
+
+## Code 
+
