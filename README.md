@@ -1,5 +1,7 @@
-# Preparing Files for Manifold
-Manifold accepts a variety of file formats. This guide maps the source formatting to how the document is displyed in Manifold. A live preview of different file uploads is available at [link].
+# Manifold Guide for Authors
+Manifold accepts a variety of file formats. This guide maps the source formatting in Word, HTML, and Markdown files to how the document is displyed in Manifold. A live preview of different file uploads is available at [link].
+
+Complete documentation for Manifold file formatting and upload is available at [https://manifoldapp.org/docs/projects/preparing/index](https://manifoldapp.org/docs/projects/preparing/index)
 
 ## Resources vs. embedded media
 Content like images, videos, files, and links can be added to Manifold as Resources or embedded directly in the text document. Resources can have associated metadata to describe the file, creator, source, and copyright status. For documents with few or only decorative images, embedding images is fine, but projects with an emphasis on multimedia resources may wish to upload these files in the Resource section so detailed metadata and permissions can be included. Always include alt-text in your image embeds to ensure the image information is conveyed to screen readers.
@@ -8,6 +10,16 @@ Resources can be linked in the Manifold text by entering the preview, highlighti
 
 ![Placing Image resource in Text](img/imgResource.png)
 
+## Accessibility
 
-## Tables
+### Images
+In order for graphics, images, and other visuals to be readable by screen readers, alternative text should be added to all figures. Alternative text, or alt text, is descriptive language that conveys the relevant information from an image to visually impaired readers.
+
+[Guide to alt text in Word](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669)
+
+[Guide to HTML alt text](https://moz.com/learn/seo/alt-text)
+
+In Markdown, add alt text in quotes following the image path. See this [example](https://www.markdownguide.org/basic-syntax/#images-1).
+
+### Tables
 Before embedding a table in your Manifold text, consider the necesstity of the table format to convey the information. Tables are hard for screen readers to parse and large tables can sometimes be summarized in paragraph form. Simple tables like terms and definitions can written out in single, consecutive lines, and data visualizations with alternative text may be better suited to conveying table information. Due to limitations in Manifold, screenshots with alt text describing the data are a better option for larger tables.
