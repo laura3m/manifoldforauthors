@@ -1,5 +1,5 @@
 # Manifold Guide for Authors
-Manifold accepts a variety of file formats. This guide maps the source formatting in Word, HTML, and Markdown files to how the document is displyed in Manifold. A live preview of different file uploads is available at [link].
+Manifold accepts a variety of file formats. This guide maps the source formatting in Word, HTML, Google Docs, and Markdown files to how the document is displyed in Manifold. Because there is not a WYSIWYG editor in Manifold, files must be re-uploaded when changes are made. Considering format as manuscripts are drafted can save time during the upload stage. A live preview of the different sample file uploads is available at [link].
 
 Complete documentation for Manifold file formatting and upload is available at [https://manifoldapp.org/docs/projects/preparing/index](https://manifoldapp.org/docs/projects/preparing/index)
 
