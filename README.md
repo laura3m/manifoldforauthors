@@ -23,3 +23,7 @@ In Markdown, add alt text in quotes following the image path. See this [example]
 
 ### Tables
 Before embedding a table in your Manifold text, consider the necesstity of the table format to convey the information. Tables are hard for screen readers to parse and large tables can sometimes be summarized in paragraph form. Simple tables like terms and definitions can written out in single, consecutive lines, and data visualizations with alternative text may be better suited to conveying table information. Due to limitations in Manifold, screenshots with alt text describing the data are a better option for larger tables.
+
+## Single file upload vs. multiple file upload
+Some projects may only require one file to create a text, but multi-chapter texts should be uploaded with each chapter in a separate file. These separate chapters must then be compressed into a ZIP file along with a metadata written in YAML. Any embedded photos, media files, or external CSS files in HTML or Markdown documents should also be zipped into this folder prior to upload. This multi-file upload is called the "Manifest" ingest method. Complete details are available at [https://manifoldapp.org/docs/projects/preparing/index.html#manifest](https://manifoldapp.org/docs/projects/preparing/index.html#manifest).
+
