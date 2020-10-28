@@ -6,7 +6,9 @@ Complete documentation for Manifold file formatting and upload is available at [
 ## A note on styling/formatting
 Manifold has built in default styles for different content types like text, hyperlinks, headings, annd more. Authors can modify these CSS settings for each text within their project to change font settings, image styling, and other visual characteristics of the text. Readers can also adjust the appearance of texts in the user menu to control the margins, font, and background color to suit their preferences. 
 
-[image of text style editor]
+To upload a CSS file, select the text from the list in the text menu on the project homepage. On the text homepage, select Styles to upload or edit stylesheets for that text. For projects with multiple texts, the CSS must be added to each text record.
+
+<img src="img/styles.png" alt="screenshot of the styles page of a text record" width="500px" height="auto" />
 
 <img src="img/readerSettings.png" alt="Reader appearance settings" width="200px" height="auto"/>
 
