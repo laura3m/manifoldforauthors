@@ -8,16 +8,16 @@ Manifold has built in default styles for different content types like text, hype
 
 To upload a CSS file, select the text from the list in the text menu on the project homepage. On the text homepage, select Styles to upload or edit stylesheets for that text. For projects with multiple texts, the CSS must be added to each text record.
 
-<img src="img/styles.png" alt="screenshot of the styles page of a text record" width="575px" height="auto" />
+<img src="img/styles.png" alt="screenshot of the styles page of a text record" max-width="640px" height="auto" />
 
-<img src="img/readerSettings.png" alt="Reader appearance settings" width="200px" height="auto" style="display:block; margin-left: auto; margin-right: auto;"/>
+<img src="img/readerSettings.png" alt="Reader appearance settings" max-width="300px" height="auto" style="display:block; margin-left: auto; margin-right: auto;"/>
 
 ## Resources vs. embedded media
 Content like images, videos, files, and links can be added to Manifold as Resources or embedded directly in the text document. Resources can have associated metadata to describe the file, creator, source, and copyright status. For documents with few or only decorative images, embedding images is fine, but projects with an emphasis on multimedia resources may wish to upload these files in the Resource section so detailed metadata and permissions can be included. Always include alt-text in your image embeds to ensure the image information is conveyed to screen readers.
 
 Resources can be linked in the Manifold text by entering the preview, highlighting the location where you would like to link an image, and selecting a resource from the pop-up panel.
 
-![Placing Image resource in Text](img/imgResource.png)
+<img src="img/imgResource.png" alt="The left side shows highlighted text to insert a resource, and the right side of the graphic shows the resources box icon embedded in the text" max-width="640px" height="auto")
 
 ## Accessibility
 
