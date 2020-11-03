@@ -8,7 +8,7 @@ Manifold has built in default styles for different content types like text, hype
 
 To upload a CSS file, select the text from the list in the text menu on the project homepage. On the text homepage, select Styles to upload or edit stylesheets for that text. For projects with multiple texts, the CSS must be added to each text record.
 
-<img src="img/styles2.gif" alt="This moving gif illustrates how to navigate to the styles page of a text record by selecting a text and then clicking Styles from the left-hand menu" max-width="530px" height="auto" />
+<img src="img/styles2.gif" alt="This moving gif illustrates how to navigate to the styles page of a text record by selecting a text and then clicking Styles from the left-hand menu" max-width="430px" height="auto" />
 
 <img src="img/readerSettings.png" alt="Reader appearance settings" max-width="300px" height="auto" style="display:block; margin-left: auto; margin-right: auto;"/>
 
