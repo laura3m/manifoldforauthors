@@ -8,7 +8,7 @@ Manifold has built in default styles for different content types like text, hype
 
 To upload a CSS file, select the text from the list in the text menu on the project homepage. On the text homepage, select Styles to upload or edit stylesheets for that text. For projects with multiple texts, the CSS must be added to each text record.
 
-<img src="img/styles.png" alt="screenshot of the styles page of a text record" max-width="640px" height="auto" />
+<img src="img/styles2.gif" alt="This moving gif illustrates how to navigate to the styles page of a text record by selecting a text and then clicking Styles from the left-hand menu" max-width="630px" height="auto" />
 
 <img src="img/readerSettings.png" alt="Reader appearance settings" max-width="300px" height="auto" style="display:block; margin-left: auto; margin-right: auto;"/>
 
@@ -17,7 +17,7 @@ Content like images, videos, files, and links can be added to Manifold as Resour
 
 Resources can be linked in the Manifold text by entering the preview, highlighting the location where you would like to link an image, and selecting a resource from the pop-up panel.
 
-<img src="img/imgResource.png" alt="The left side shows highlighted text to insert a resource, and the right side of the graphic shows the resources box icon embedded in the text" max-width="640px" height="auto" />
+<img src="img/resources2.gif" alt="This gif shows how to link a resource in a text by highlighting a word or phrase in the text, selecting Resource from the dropdown, and then selecting a resource from the popup pane" max-width="630px" height="auto" />
 
 ## Accessibility
 
