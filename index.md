@@ -17,7 +17,7 @@ Content like images, videos, files, and links can be added to Manifold as Resour
 
 Resources can be linked in the Manifold text by entering the preview, highlighting the location where you would like to link an image, and selecting a resource from the pop-up panel.
 
-<img src="img/resourceSM.gif" alt="This gif shows how to link a resource in a text by highlighting a word or phrase in the text, selecting Resource from the dropdown, and then selecting a resource from the popup pane" max-width="630px" height="auto" />
+<img src="img/resourceSM.gif" alt="This gif shows how to link a resource in a text by highlighting a word or phrase in the text, selecting Resource from the dropdown, and then selecting a resource from the popup pane" max-width="430px" height="auto" />
 
 ## Accessibility
 
