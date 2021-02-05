@@ -4,7 +4,7 @@
 
 Sample Markdown code:
 
-```
+```markdown
 ---
 title: A Markdown Sample Chapter
 ---
