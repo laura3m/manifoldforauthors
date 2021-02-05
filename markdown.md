@@ -1,3 +1,4 @@
+[Home](https://laura3m.github.io/manifoldforauthors) > Markdown
 # Markdown 
 ## Basic text formatting
 
@@ -16,13 +17,7 @@ Pellentesque habitant _morbi tristique_ senectus et netus et malesuada fames ac 
 
 Suspendisse dui purus, __scelerisque at__, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque **magna**. Integer nulla.
 
-A list (dashed):
-
--	Apple
--	Orange
--	Banana
-
-Another unordered list:
+An unordered list:
 
 * A
 * Bee
@@ -37,24 +32,24 @@ An ordered list:
 
 The Markdown code is rendered like this in Manifold:
 
-<img src="img/mdrender.PNG" alt="A markdown file display in Manifold." width="450px" height="auto">
+<img src="img/mdrender.PNG" alt="A markdown file display in Manifold." width="50%" height="auto">
 
 ## Images
 
 Markdown images can be embedded from the web or included in the manifest .zip folder upload. If additional image styling/sizing is needed, you can include HTML syntax within your Markdown and include a CSS file to specify image classes.
 
-Code sample:
+Markdown sample:
 
 ```
 # Sample markdown image
 A local image uploaded with the Manifest zip folder:
-![A white cat with heterochromia](catimg.png)
+![A white cat with heterochromia](catimg.png "alt text here")
 
 A web image with URL:
-![A golden retriever laying in the grass](https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg)
+![A golden retriever laying in the grass](https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg "alt text here")
 ```
 
-<img src="img/mdimgsidebyside.png" alt="Sample of how images are displayed in Manifold" width="450px" height="auto">
+<img src="img/mdimgsidebyside.png" alt="Sample of how images are displayed in Manifold" width="50%" height="auto">
 
 ## Tables
 
