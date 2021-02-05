@@ -3,6 +3,13 @@ Manifold accepts a variety of file formats. This guide maps the source formattin
 
 Complete documentation for Manifold file formatting and upload is available at [https://manifoldapp.org/docs/projects/preparing/index](https://manifoldapp.org/docs/projects/preparing/index)
 
+Jump to: 
+<ul>
+  <li><a href="https://laura3m.github.io/manifoldforauthors/word">Word</a></li>
+  <li><a href="https://laura3m.github.io/manifoldforauthors/html">HTML</a></li>
+  <li><a href="https://laura3m.github.io/manifoldforauthors/markdown">Markdown</a></li>
+</ul>
+
 ## A note on styling/formatting
 Manifold has built in default styles for different content types like text, hyperlinks, headings, annd more. Authors can modify these CSS settings for each text within their project to change font settings, image styling, and other visual characteristics of the text. Readers can also adjust the appearance of texts in the user menu to control the margins, font, and background color to suit their preferences (second image below). 
 
