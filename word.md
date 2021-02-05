@@ -1,3 +1,5 @@
+[Home](https://laura3m.github.io/manifoldforauthors) > Word
+
 # Word Documents
 ## Basic text formatting
 
