@@ -1,3 +1,4 @@
+[Home](https://laura3m.github.io/manifoldforauthors) > HTML
 # HTML files
 ## Basic text formatting
 
@@ -39,7 +40,7 @@ The code above renders like this in Manifold:
 
 ## Images
 
-Manifold handles HTML images similar to most web pages. Images can be linked from a web location or sourced from a file uploaded in the manifest .zip folder. Manifold ignores inline styling, so image sizing must designated in a separate CSS file and included in the manifest .zip folder. Resizing images with percentages rather than pixel values may scale better on mobile device screens.
+Images can be embedded in the HTML text using the ```<img>``` or `<figure>` tags. Images can be linked from a web location or sourced from a file uploaded in the manifest .zip folder. Styling can be handled in-line or through a CSS file. Images are not automatically added to the Project's Resources; images and other files must be uploaded directly through the Resource section to create a collection of images outside of the text.
 
 Code sample:
 
@@ -56,7 +57,7 @@ Code sample:
 <p>An image linked from a web source:</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg" alt="A golden retriever laying in the grass">
 <p>Image styled with external CSS sheet (included in Manifest):</p>
-<img class="dog" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg" alt="A golden retriever laying in the grass">
+<img class="small-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Golden_Retriever_Pup_2.jpg" alt="A golden retriever laying in the grass">
 <p>A local image uploaded in a Manifest zip folder:</p>
 <img src="catimg.png" alt="A white cat with heterochromia">
 </body>
@@ -66,7 +67,7 @@ Code sample:
 CSS to reduce image size:
 
 ```
-.dog {
+.small-img {
 	height: 150px; 
 	width: auto
 	}
