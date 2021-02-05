@@ -83,7 +83,7 @@ For help with table formatting, visit the W3School's guide: [https://www.w3schoo
 
 ## Iframes
 
-Iframes can used in your HTML file to embed multimedia in your text, including videos from Youtube or Vimeo, datasets and visualizations from Tableau, and 3D models from Sketchfab, among others. For help with iframes, visit https://www.w3schools.com/tags/tag_iframe.asp
+Iframes can used in your HTML file to embed multimedia in your text, including videos from Youtube or Vimeo, datasets and visualizations from Tableau, and 3D models from Sketchfab, among others. For help with iframes, visit <a href="https://www.w3schools.com/tags/tag_iframe.asp">https://www.w3schools.com/tags/tag_iframe.asp</a>
 
 ## Code 
 
