@@ -18,15 +18,15 @@ Sample html document:
     <p>Suspendisse dui purus, <b>scelerisque at</b>, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. <i>Integer nulla</i>.</p>
     <p>Unordered list:
     <ul>
-    	<li>Apple</li>
-    	<li>Orange</li>
-    	<li>Banana</li>
+      <li>Apple</li>
+      <li>Orange</li>
+      <li>Banana</li>
     </ul>
     </p>
     <p>
     An ordered list:
     <ol>
-    	<li>One</li>
+     <li>One</li>
      <li>Two</li>
      <li>Three</li>
     </ol>
@@ -44,7 +44,7 @@ Images can be embedded in the HTML text using the ```<img>``` or `<figure>` tags
 
 Code sample:
 
-```
+```html
 <!DOCTYPE html>
 
 <html>
@@ -66,7 +66,7 @@ Code sample:
 
 CSS to reduce image size:
 
-```
+```css
 .small-img {
 	height: 150px; 
 	width: auto
